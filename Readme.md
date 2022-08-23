@@ -29,3 +29,14 @@ I have solved this problem using FASTAPI in Python and used uvicorn for server.
 
 ### Usage
 In any Browser open `http://localhost:8000/docs`
+
+### Testing API in Postman
+- URL: `http://localhost:8000/data`
+- Data Format:
+  ```
+  {
+    "inputs":{
+    
+    }
+  }
+  ```
